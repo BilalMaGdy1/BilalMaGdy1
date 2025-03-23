@@ -1,5 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<img align="right" src="https://raw.githubusercontent.com/BilalMaGdy1/BilalMaGdy1/refs/heads/main/Developer.gif" width="80" />
+
 <p align="left">
   My name is **Bilal MaGdy** and I'm a **Web Developer** from **Egypt**.
 </p>
